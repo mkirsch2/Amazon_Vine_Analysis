@@ -19,3 +19,6 @@ The results below are for the Amazon pet products dataset, located within AWS he
 - Percentage of non-Vine reviews that were 5-star: 54.47%
 
 ## Summary
+Based on analysis above of Amazon pet product reviews, there does not appear to be a positivity bias for reviews in the Vine program, as the percentage of 5-star reviews is approximately 16% greater for the non-Vine reviews.
+
+To further support this determination about positivity bias, an analysis of the the mean star ratings for verified purchases with Vine- and non-Vine reviews can be conducted.
